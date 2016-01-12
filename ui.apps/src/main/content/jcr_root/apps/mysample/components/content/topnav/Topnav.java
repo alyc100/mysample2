@@ -31,7 +31,7 @@ public class Topnav extends WCMUse {
     
 	@Override
 	public void activate() throws Exception {
-		// nothing to be done here in this case. Exported by eclipse.
+		// nothing to be done here in this case. Exported by eclipse. Test 13:53
 	}
 	
 	public Iterator<Map<String, Object>> listPageInfos() {
